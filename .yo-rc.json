@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Alex Kirwan",
+      "authorEmail": "alexincork91@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}

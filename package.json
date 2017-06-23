@@ -15,7 +15,8 @@
   "keywords": [
     "npm",
     "move",
-    "build"
+    "build",
+    "dependencies"
   ],
   "devDependencies": {
     "coveralls": "^2.12.0",
